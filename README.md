@@ -1,4 +1,4 @@
-# so-you-like-your-food-hot
+# So You Like Your Food Hot?
 Peter is co-owner of the incredibly successful Pete and Pat’s Pitas and Pizzas and his sales are on fire! But unfortunately, so is his building, due to carelessly laid delivery boxes placed too close to Pete’s famous wood burning pizza oven. After sifting though the remnants, one of the few things Pete is able to salvage is a ledger book, but the only thing he can make out on the charred pages is the profit he made during the last month. The insurance company would like to know how many pitas and how many pizzas Pete actually delivered over that period. Pete does recall how much profit he makes on each of these products, so he’s pretty confident that he can determine how many of each were sold during the last month given the total profit. Well perhaps “confident” is not the exact word Peter is looking for – it’s more like clueless. Can you help Pete out? I’m sure there are some discount coupons in it for you, or at least a really cheap price on a used pizza oven.
 # Input
 Input consists of a single line containing 3
