@@ -8,3 +8,5 @@ values pt p1 p2, where 0≤pt≤10000.00 is the profit for the month and 0<p1,p2
 Display two integers: the number of pitas sold and the number of pizzas sold so that the total profit equals the value given. If there is more than one combination of pitas and pizzas that give the specified profit, list them all, one combination per line, listing the combination with the smallest number of pitas first, then the combination with the second smallest number of pitas, and so on. If there are no combinations of pizza and pita sales that realize the profit, output none.
 
 ![](sample_IO.png)
+
+Details : [2018 ICPC East-Central NA Regional Practice Contest](https://open.kattis.com/problems/soyoulikeyourfoodhot)
